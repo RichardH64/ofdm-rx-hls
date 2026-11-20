@@ -2,13 +2,13 @@
 
 ## 1. GitHub Repository
 
-Repository: `https://github.com/<team-account>/<repo>` (this file: `plans/initial_plan.md`)
+Repository: `https://github.com/RichardH64/ofdm-rx-hls` (this file: `plans/initial_plan.md`)
 
 ## 2. Project Team
 
 - Richard Kymani Harrison
-- [Member 2 full name]
-- [Member 3 full name]
+- Lokesh Nanthakumar
+- Taran Ramu
 
 ## 3. IP Definition
 
